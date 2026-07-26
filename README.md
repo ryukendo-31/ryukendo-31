@@ -70,6 +70,20 @@
 
 ---
 
+### `> leetcode.grind`
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/aaryansharma11?theme=dark&font=Fira%20Code&ext=heatmap&border=false" alt="LeetCode Stats" width="90%" />
+
+<br/><br/>
+
+[![LeetCode](https://img.shields.io/badge/LEETCODE-0d0221?style=for-the-badge&logo=leetcode&logoColor=ff00ff)](https://leetcode.com/u/aaryansharma11/)
+
+</div>
+
+---
+
 ### `> connect.exe`
 
 <div align="center">
