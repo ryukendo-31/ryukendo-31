@@ -46,6 +46,12 @@
 <div align="center">
 
 ![Python](https://img.shields.io/badge/PYTHON-0d0221?style=for-the-badge&logo=python&logoColor=00f0ff)
+![C](https://img.shields.io/badge/C-0d0221?style=for-the-badge&logo=c&logoColor=ff00ff)
+![C++](https://img.shields.io/badge/C%2B%2B-0d0221?style=for-the-badge&logo=cplusplus&logoColor=00f0ff)
+![HTML5](https://img.shields.io/badge/HTML5-0d0221?style=for-the-badge&logo=html5&logoColor=ff00ff)
+![CSS3](https://img.shields.io/badge/CSS3-0d0221?style=for-the-badge&logo=css3&logoColor=00f0ff)
+![FastAPI](https://img.shields.io/badge/FASTAPI-0d0221?style=for-the-badge&logo=fastapi&logoColor=ff00ff)
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-0d0221?style=for-the-badge&logo=postgresql&logoColor=00f0ff)
 ![Jupyter](https://img.shields.io/badge/JUPYTER-0d0221?style=for-the-badge&logo=jupyter&logoColor=ff00ff)
 ![Pandas](https://img.shields.io/badge/PANDAS-0d0221?style=for-the-badge&logo=pandas&logoColor=00f0ff)
 ![NumPy](https://img.shields.io/badge/NUMPY-0d0221?style=for-the-badge&logo=numpy&logoColor=ff00ff)
@@ -61,10 +67,10 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ryukendo-31&show_icons=true&theme=synthwave&hide_border=true&bg_color=0d0221&title_color=ff00ff&icon_color=00f0ff&text_color=c5c6c7" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=ryukendo-31&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryukendo-31&theme=radical&hide_border=true&background=0d0221&ring=ff00ff&fire=00f0ff&currStreakLabel=00f0ff" alt="Streak Stats" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryukendo-31&layout=compact&theme=synthwave&hide_border=true&bg_color=0d0221&title_color=ff00ff&text_color=c5c6c7" alt="Top Languages" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryukendo-31&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
 
 </div>
 
